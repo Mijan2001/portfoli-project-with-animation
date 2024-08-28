@@ -1,0 +1,22 @@
+<ion-icon name="home-outline"></ion-icon>
+<ion-icon name="library-outline"></ion-icon>
+<ion-icon name="newspaper-outline"></ion-icon>
+<ion-icon name="people-outline"></ion-icon>
+
+<ion-icon name="cloud-done-outline"></ion-icon>
+<ion-icon name="analytics-outline"></ion-icon>
+<ion-icon name="diamond-outline"></ion-icon>
+<ion-icon name="logo-css3"></ion-icon>
+<ion-icon name="logo-figma"></ion-icon>
+<ion-icon name="logo-python"></ion-icon>
+<ion-icon name="diamond-outline"></ion-icon>
+<ion-icon name="people-outline"></ion-icon>
+<ion-icon name="logo-github"></ion-icon>
+<ion-icon name="logo-apple"></ion-icon>
+<ion-icon name="logo-amazon"></ion-icon>
+
+
+
+<ion-icon name="call-outline"></ion-icon>
+<ion-icon name="mail-outline"></ion-icon>
+<ion-icon name="receipt-outline"></ion-icon>
