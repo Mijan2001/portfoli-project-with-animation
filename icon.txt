@@ -15,7 +15,9 @@
 <ion-icon name="logo-apple"></ion-icon>
 <ion-icon name="logo-amazon"></ion-icon>
 
-
+<ion-icon name="logo-nodejs"></ion-icon>
+<ion-icon name="server-outline"></ion-icon>
+<ion-icon name="code-slash-outline"></ion-icon>
 
 <ion-icon name="call-outline"></ion-icon>
 <ion-icon name="mail-outline"></ion-icon>
