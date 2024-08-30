@@ -8,6 +8,7 @@
 }
 body {
     background: #090d1c;
+    scroll-behavior: smooth;
 }
 .logo h1 {
     font-size: 2.3rem;
