@@ -763,7 +763,51 @@ p {
     transform: translate(-50%, -50%) rotate(45deg);
     z-index: -1;
 }
+.profile-container {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
 
+.profile-image img {
+    width: 200px;
+    /* height: 200px; */
+    border-radius: 5%;
+    object-fit: cover;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    /* border: 5px solid #ffffff; */
+}
+.profile-image img:hover {
+    box-shadow: 4px 4px 4px black;
+    transform: scale(1.01);
+}
+.disignation {
+    width: 350px;
+    height: 262.656px;
+    /* border: 1px solid gray; */
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.disignation h3 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+        'Lucida Sans', Arial, sans-serif;
+    color: yellow;
+}
+.disignation p {
+    overflow: hidden;
+    overflow-wrap: anywhere;
+    color: yellowgreen;
+}
+
+.disignation:hover {
+    box-shadow: 5px 5px 5px black;
+    /* border: 1px solid gainsboro; */
+}
 @media (max-width: 1650px) {
     .second-row {
         transform: scale(0.95);
